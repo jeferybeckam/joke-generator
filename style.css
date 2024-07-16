@@ -1,3 +1,4 @@
+
 body {
     font-family: Arial, sans-serif;
     display: flex;
@@ -5,14 +6,13 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f0f0f0;
+    background-color: orange;
 }
-
 .container {
     text-align: center;
-    background-color: #fff;
+    background-color: #0dce98;
      
-    border-radius: 20px;
+    border-radius: 50px;
 
     height: 10%;
     width: 90%;
@@ -20,7 +20,7 @@ body {
 }
 .rapper{
     border: 5px solid rgb(20, 21, 18);
-    border-radius: 5%;
+    border-radius: 500;
 }
 
 .joke-container {
