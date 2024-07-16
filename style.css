@@ -6,11 +6,11 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: orange;
+    background-color: rgb(10, 189, 126);
 }
 .container {
     text-align: center;
-    background-color: #0dce98;
+    background-color: grey;
      
     border-radius: 50px;
 
